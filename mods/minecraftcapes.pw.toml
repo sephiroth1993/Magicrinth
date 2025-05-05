@@ -1,0 +1,13 @@
+name = "MinecraftCapes | Wear any cape, cost free"
+filename = "MinecraftCapes Fabric 1.20.1-12.3.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/PzQRJzN9/MinecraftCapes%20Fabric%201.20.1-12.3.7.jar"
+hash-format = "sha512"
+hash = "694e7effe23eb96fb04b85d6475fda9055269406bf5622738f350db7bea172d2a981fa33d3fa27c7324f06de92b2f520c6daa16d5f2299549afc5ea2b5f19c12"
+
+[update]
+[update.modrinth]
+mod-id = "9gNVPfzw"
+version = "PzQRJzN9"
