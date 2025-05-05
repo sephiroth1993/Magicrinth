@@ -36,6 +36,16 @@ hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
@@ -71,6 +81,11 @@ hash = "8ca413f9c2a155068d71e0057b23d8a199473fb78b37fe1ea864b5455e997a26"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
+metafile = true
+
+[[files]]
 file = "mods/eternal-attributes.pw.toml"
 hash = "64b486e16ccc051f897e7cc16ce33c45b3f7d45c3622544f15c54bb354efea76"
 metafile = true
@@ -83,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "9603820d581a491036461500b9bf463ec82f8dc00d4c80813e5da84ce43e8a50"
 metafile = true
 
 [[files]]
@@ -106,8 +126,18 @@ hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "45d13728e767e795b37cb0eaf57db186d1551cf3608c8cb6a331dd718e6a2fce"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
@@ -116,8 +146,23 @@ hash = "d4fb284f3fc30b556e274df4bf70b6206c0ed532dce302a7a704490967252338"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "3db3f81ef2f5b2441ea6bccc659dad579c22445038a34fde539ca46f95a6446c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
 
 [[files]]
@@ -241,6 +286,11 @@ hash = "09cbcbbf56abc9c6a30f1de29f99c4b7cd849dbbb72ee338b50e816af07f4098"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "5a8336071f8e411b99512874064e218edc63ba6370534afd45addb71095249df"
 metafile = true
@@ -258,6 +308,16 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "0714532ce3dc614172e9dcbafbfb0f1a2321f3e49c9ec97d3d701dafb6f9029d"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
