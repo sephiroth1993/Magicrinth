@@ -1,0 +1,13 @@
+name = "Default HD 512x"
+filename = "Default HD 512x Demo 1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vo7pxueF/versions/r3H0ObjG/Default%20HD%20512x%20Demo%201.4.zip"
+hash-format = "sha512"
+hash = "22e7adf1f8dfe39c799fd98fd0a8fc7a34f950e0ca57b99d6974a23b777c332586061e772c2465c899678fe0816b87a5fd7f342c0090471c46548d97c6d13324"
+
+[update]
+[update.modrinth]
+mod-id = "Vo7pxueF"
+version = "r3H0ObjG"

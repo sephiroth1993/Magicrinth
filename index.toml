@@ -354,3 +354,38 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
+
+[[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "2782a26c6b708ad8edb5efec57c10acf884d49c3587b721b6dd75a9a97d12657"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-hd-512x.pw.toml"
+hash = "adcb108e9a1c1e62c53c41a304da9584e2f0d497858698b870924aa3274f19d5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "8e94d616671e51dbba264f8e778618a76bef212f825a66efbebfc4081a65d249"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "32237ac305fe8d631a84bc058bf71d8136b47fabd9a1e2c54e293bad2968da96"
+metafile = true
