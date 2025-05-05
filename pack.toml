@@ -1,0 +1,13 @@
+name = "Magicrinth"
+author = "Sephiroth1993"
+version = "0.99B"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8a94d25dcb43b6b3a53c1a2c2f864f2a1d176a1c646216c2746a7b619918168f"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"

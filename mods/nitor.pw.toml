@@ -1,0 +1,13 @@
+name = "Nitor"
+filename = "Nitor-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AqVfGqcr/versions/EQo10MIc/Nitor-0.2.0.jar"
+hash-format = "sha512"
+hash = "4358f88ff5ef1e664e85f5577f309037759656f717a6ccdf8a031ad87042384d72eda18f0d81a92e0dee3f21f3655052261339ed718c9d0c4fb85eaae5ed5c26"
+
+[update]
+[update.modrinth]
+mod-id = "AqVfGqcr"
+version = "EQo10MIc"
