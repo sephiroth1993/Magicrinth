@@ -111,6 +111,16 @@ hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "720abb80fb6b6585322ee0d10fafd3b4ee6fe2997d2053b4f6f685cd7ed02ea5"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "e121e2d616cb83674916872167815c49081d3bc82bc39bc5a2cccede409479b6"
 metafile = true
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "b9f54476b8fd406728130ebc2cce3a706fcf017ccaaf6ba2fc8737ebaa59b900"
 metafile = true
 
 [[files]]
@@ -181,13 +196,18 @@ hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "ce276e188fa22c4b8e4a99a0558844284fff7d49af2c5e6683290eaa598a7c61"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "53bf67d9dda258dfe78b1b1f7116e9c347bc59f0084f3c6b9e61b5ec6da4a59f"
+hash = "9603820d581a491036461500b9bf463ec82f8dc00d4c80813e5da84ce43e8a50"
 metafile = true
 
 [[files]]
@@ -236,6 +256,21 @@ hash = "62cb0a28a1039bd90f1d3534ed52ada9b38a76fd27f98eb44a0ff31493652563"
 metafile = true
 
 [[files]]
+file = "mods/health-indicator-txf.pw.toml"
+hash = "d4d2f3a690c693fed37da3ff2c8cb44a1c992a17fb6d6cf5e05197d36c467471"
+metafile = true
+
+[[files]]
+file = "mods/icarae-origin.pw.toml"
+hash = "5f4168b293b119b3c271aa187aa7570651ecd1cfd80b9d6c6709f81a86b40adb"
+metafile = true
+
+[[files]]
+file = "mods/icarus.pw.toml"
+hash = "f5e0981d6bbd093b174883d5fdd4d49f0385cfc11f952ddfc9d489b5b1081337"
+metafile = true
+
+[[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "c17306b2519b082caa4b45f285c2e3272813d356aada7d2e7e68cce81ee8e6aa"
 metafile = true
@@ -251,8 +286,18 @@ hash = "3c999718e14cf0305deb04ca2b34e7886f73cbfa9f2bcb0d5dc59f9fa4ed91c7"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
 file = "mods/infusion-table.pw.toml"
 hash = "36035cdf9e18d1d50fa4532c18887d549a52785439cd75261c580876776cfb23"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "465d7aac3ab99e38561354e331b640016f9ea82379b4d1e56b417bef8a881e92"
 metafile = true
 
 [[files]]
@@ -271,6 +316,21 @@ hash = "80264d11a93ffb63f1592be06f8dcdf276bc5a6d2b666dfa9a5d2d10dfb29282"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "fd806713c4bd32080e12e65c012ad93de6a6fae53484fa13a72603c39f3eae63"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
+metafile = true
+
+[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "dd99f51befd2b27e2e1fff93b074db5b0787b7e8930b851a75837eb1e9ac96fb"
 metafile = true
@@ -283,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "ef561650c251d4780b9cb948ddcacd4f43abe0dc0e31cb1aa22bac0147fe805e"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
 
 [[files]]
@@ -441,6 +506,11 @@ hash = "6687d417c5aeacde9d75cf28f2dc1d125ca63d677fde3d75a6666c3306789281"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "3070e7a9aa7244e36fdb27a904ac7433ed4d119336977d1837f486f60724a9b1"
 metafile = true
@@ -516,6 +586,11 @@ hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "966ec0e582d322ea64e59fb74e0e128da0fe9035ec084dded676ec4014df66d5"
 metafile = true
@@ -538,6 +613,16 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "772366b5e2dc6c3df6349909b3c8eea0504b5a3167205b65fefa6e51371b8d9f"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-damage-indicators-updated.pw.toml"
+hash = "ccaef93c50e4bf8e6f6e1f1b19ede072d513e29688b9bf3e5520454389df3f8d"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "12ffd7d9d5511848c57fdb470668189171aba315fe15ff44522d10a57d7acd1d"
 metafile = true
 
 [[files]]
@@ -646,11 +731,6 @@ hash = "28ba56dcf0f8b6dfccebeef2c9aaf89b1ddf058c476bd240bf14a4ad4c383d41"
 metafile = true
 
 [[files]]
-file = "resourcepacks/default-hd-512x.pw.toml"
-hash = "cc92d5a5eb91bac791a7a397762fabb3eac9be715a2dcd79ff99f18fd0e7a85e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
 hash = "5181be6f698d6e1c7cbe277f1efa8714a4b8cb7b140bb1dcb0a02752adb3c570"
 metafile = true
@@ -661,16 +741,11 @@ hash = "8d4ef54b5da8007d17fea93efb1584d3d41b05e1b6953eeb7dc39210eb9b0255"
 metafile = true
 
 [[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "5313511ec9688059b2a71267d16ccdf109f1d8f5dee93bee5edc0ddfc9b105c4"
+file = "resourcepacks/tzp-extra-compat-(tissous-zombie-style).pw.toml"
+hash = "1142af3dab601524c4075c85b62e937b219d2373846723937d5fa95fc0bb19fe"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "d9218675ba3ce152f751e02a358435ef524b334901e58679ff2caad599695349"
-metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "52fc6bea04cce79bb1eed29e4c8a83f7f3d7a24c2c9f7c618765fd17fc5cc075"
 metafile = true

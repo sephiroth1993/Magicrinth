@@ -1,0 +1,13 @@
+name = "Icarae Origin"
+filename = "Icarae-Origin-Fabric-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XMwNnLZG/versions/qdP9g7xd/Icarae-Origin-Fabric-1.1.1.jar"
+hash-format = "sha512"
+hash = "c7f46adc9d1f79f8759c67f15328553787134e1162b30a9dc2959411eb8e3bee7259c504628ffa73253a283ac8c868e0935505020ceb335c599e3acb556d0562"
+
+[update]
+[update.modrinth]
+mod-id = "XMwNnLZG"
+version = "qdP9g7xd"

@@ -1,0 +1,13 @@
+name = "TZP Extra Compat (Tissou's Zombie Style)"
+filename = "TZP_ExtraCompat_1.20-1.21+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HWxWCLl3/versions/364r8z0j/TZP_ExtraCompat_1.20-1.21%2B.zip"
+hash-format = "sha512"
+hash = "391b3f7eec4c9f417fca98d4c4c75bd23cb18e498c720fccbc2470b02bdd0baccb7281e50de748693d7710091231f0bde9f7fdb5cbe26e18df4b67fa4ecd6465"
+
+[update]
+[update.modrinth]
+mod-id = "HWxWCLl3"
+version = "364r8z0j"
