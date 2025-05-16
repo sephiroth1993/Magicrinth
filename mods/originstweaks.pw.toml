@@ -1,0 +1,13 @@
+name = "OriginsTweaks"
+filename = "originstweaks-1.18.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FRBxogjw/versions/8sDuBU1H/originstweaks-1.18.0.jar"
+hash-format = "sha512"
+hash = "a63f3bd255cf48cb79433d31137bd036280c8f3813bef41d78362acab0069f46113e61e6ae26bf7a76699c709737e2e93e1bb774726dfd8e8cd82c11ee4713be"
+
+[update]
+[update.modrinth]
+mod-id = "FRBxogjw"
+version = "8sDuBU1H"
