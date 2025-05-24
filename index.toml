@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "00d2687db44c8f22d17472eb96c97f952a6b3ae9c023ef148ac6bce492e3d39c"
+hash = "4604e2814f87f13d404cb430a4167929391ac6a42322dacb9ca6f9d8ea12593b"
 metafile = true
 
 [[files]]
@@ -311,6 +311,11 @@ hash = "3c999718e14cf0305deb04ca2b34e7886f73cbfa9f2bcb0d5dc59f9fa4ed91c7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "b98e57540394632b45e59d4f8f9b78f217cbd2935400a6081382968745054776"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "ec0e252c91555b61ba6132207c925d95e85e26ca16f8082e47b367860a70cc88"
 metafile = true
@@ -357,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
-hash = "dd99f51befd2b27e2e1fff93b074db5b0787b7e8930b851a75837eb1e9ac96fb"
+hash = "27fc75f9a256f061cd390d60af6b0dae954df4e21784be0fcaccf4d3696d97eb"
 metafile = true
 
 [[files]]
@@ -392,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "59da26d7af84e9824f815cc2ca7a30c6ec87119ce8ef45413cdd9dac58bbdcda"
+hash = "8ad6382001078c012fd1131e2cf19016bb25a45e4b2049f85bd301f3bd04df7b"
 metafile = true
 
 [[files]]
@@ -423,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "4f2b829c259a0b5521970993d48e49e64faccb48868b4e84389ac269eb652be5"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b7a5102d9c5e8b022ea507d219520130ebfefd0eeddfd74c3627aa6f27335932"
 metafile = true
 
 [[files]]
@@ -482,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/originstweaks.pw.toml"
-hash = "63d33fdebfbab217cbce5aed449ccc1628d23b84466f4491970637047418e409"
+hash = "6f6e5f4f39c05bfeaa906a6f2483b48477cb45c821da0614fa769cd2467cb247"
 metafile = true
 
 [[files]]
@@ -587,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/skills.pw.toml"
-hash = "ee3340e3f8c1926e04870fe5f6cfe33d6f42c65a068ac56b372a4c7e158c8a35"
+hash = "f3aabffa4ea78870f38ef55cb3671e1fc44de4607d3497871b8e4e3eb6cf0b0a"
 metafile = true
 
 [[files]]
@@ -627,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "0820e71b437fcaea85679728681d57a1e0e0ea02ac3a1496d210d32701cf193e"
+hash = "2b757eba1a35b169e4dd814e8bb8b7f65c47ff98a180522d69e121544090e6d2"
 metafile = true
 
 [[files]]
@@ -697,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "c517922e676af5b8a25c75fe145fe4ac3b9220ebf0b408758ff3f163ac5c3182"
+hash = "760d018cbc3d725cabf4dc5b4e11e383cdb9c9d7afe0750a4289c3d423e43060"
 metafile = true
 
 [[files]]
@@ -717,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "dbca05b41fc944fde3aec34d7edd52dbdbf70ef618b6a56e98a99f0fa99c1c94"
+hash = "328e3a71ad894b40c8fa9640bb27534e04740ff697949b45792baf4730094e3f"
 metafile = true
 
 [[files]]
@@ -797,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
-hash = "28ba56dcf0f8b6dfccebeef2c9aaf89b1ddf058c476bd240bf14a4ad4c383d41"
+hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
 metafile = true
 
 [[files]]
