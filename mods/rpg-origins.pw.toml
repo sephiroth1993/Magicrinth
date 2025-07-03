@@ -1,13 +1,13 @@
 name = "RPG Origins"
-filename = "RPGOrigins-1.4.3.jar"
+filename = "RPG Origins 1.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2x88uc2n/versions/9Y7wlA5F/RPGOrigins-1.4.3.jar"
+url = "https://cdn.modrinth.com/data/2x88uc2n/versions/rIxVCLOC/RPG%20Origins%201.4.4.jar"
 hash-format = "sha512"
-hash = "93c6f665780e565a8d2a875af2351ef0ee27347d67eac04192755f6e1902fe9c479a706e1a78772e83d925a792693c39a734f3e1ec8aa638e77a3149d1016643"
+hash = "04de0faaaf745bf339af6e3667c1c1ba01e90a8bc08eda16ba69939027b970817a5c189eefd8dfd354109fee84851c6d799cc4eb930ca025450cf2a7f3e17590"
 
 [update]
 [update.modrinth]
 mod-id = "2x88uc2n"
-version = "9Y7wlA5F"
+version = "rIxVCLOC"
