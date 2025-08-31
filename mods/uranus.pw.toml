@@ -1,13 +1,13 @@
 name = "Uranus"
-filename = "uranus-2.2.4-1.20.1-fabric.jar"
+filename = "uranus-2.2.6-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3Acxy864/versions/D6uovG4J/uranus-2.2.4-1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/3Acxy864/versions/TICNdyfo/uranus-2.2.6-1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "a04038a93682587a219d60fac77530fc406c96c8773b2aa002baf70d276c25fc4e9cd4f338acaae115ee6e03ae13ce8ffe19dc836be258399abd816469831856"
+hash = "31e5bc5f5ae9134ec567446ca795af4aca299b3f875446c9c15311f3443b0d3d2bfaea51b7d3cae5473fbc4f3f15649ef3be18e29bf54541a8e695225ced9e10"
 
 [update]
 [update.modrinth]
 mod-id = "3Acxy864"
-version = "D6uovG4J"
+version = "TICNdyfo"

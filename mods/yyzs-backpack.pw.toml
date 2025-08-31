@@ -1,0 +1,13 @@
+name = "yyz's backpack"
+filename = "YyzsBackpack-fabric-0.0.27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zO7tsTJN/versions/OoOxZv5U/YyzsBackpack-fabric-0.0.27.jar"
+hash-format = "sha512"
+hash = "6f1910a2e50b61f5526b7fc4462f73af84fecb1e87998a39a0fa4037a65e1bdd39357e0f38bfabd96ef41a4b03812c11e2624028870132c582c26944f2f8eed6"
+
+[update]
+[update.modrinth]
+mod-id = "zO7tsTJN"
+version = "OoOxZv5U"

@@ -126,6 +126,11 @@ hash = "047812837d0c20dd55c3a807fae00f95651a6fc459707fe2637014ff0b4fb03b"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "dd3c03678a537da1f286dd617e8d127b76b778a207864a5b1c20813bfa7304db"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "70c1239490c6a57c96909847533833b6319ec3603b104f7d4f8509627830d975"
 metafile = true
@@ -202,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -267,7 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "956ce6abf28a447b1ab99aae9c7490151e8ea9d792528314735753b2789b46ce"
+hash = "26eb9a0d230cfebd3e32df2db21326d45ecca1348fb3d731657f3e55a9dde467"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "31b8caff2c9826ff2d633051fd9d9f092beb5bc50553400af92aca580bc80bfb"
 metafile = true
 
 [[files]]
@@ -297,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
-hash = "ce128982433a8b0c7b24a35790ceef11a2e07202b63bbb558ee7bad19870f9a4"
+hash = "08876d8904dea28f4d0637779e5edb31dc5a3cce150799761a89da740d87dda5"
 metafile = true
 
 [[files]]
@@ -327,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "cf74742353cc5e9a758c212b92043542d7729accaefb5cb7f1851c03e7136fd7"
+hash = "cc5ce2c69f275f245fccbb9f673f5b6711175034bdf41f48cfb672e652ea984b"
 metafile = true
 
 [[files]]
@@ -407,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/lunar.pw.toml"
-hash = "e87094a5be9ad3683920822685fac3cef203423b5e157fce31c221aee3446af1"
+hash = "12924a88e090ca4a94caab2586b87fbde6dba20a2bd1a0e962732ff11a4b53db"
 metafile = true
 
 [[files]]
@@ -432,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c2321672767aed321536a4aedfc54c6703de2d23c9c2235c2d104ce77f3aa8b5"
+hash = "8f4bdcf3f56dd99067356fff5d5b2b288e6c0f132447777f3fe89abced76a70e"
 metafile = true
 
 [[files]]
@@ -522,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "d323cd36c9a329964b50f2eca3a735960ab9acf71e2683552e9c72b44c166f8f"
+hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
 
 [[files]]
@@ -617,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "c8cb0df083c03c78866912df21ef1c5eb5bb64f99deb1bbee253bb46be058e58"
+hash = "171236a7fb44b368ce3f1f9acfb7976d4c744a66871ac44dee612d0ea0da3357"
 metafile = true
 
 [[files]]
@@ -637,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "e3b463f62eed049d86022d5b895b933af5886087d80865cc13a3d0675292156f"
+hash = "c2c208ce56f4b64978606fe95fefe9f35909d880f8a7810f3924888418b26a46"
 metafile = true
 
 [[files]]
@@ -707,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "736c973b73d145aac2728acf181a18bd39a4b0126cfead47345d22a72c0898ce"
+hash = "1feb74367b4db618e7fe0715f19cea1c7c250abc0fac0efa74f7177c504f6339"
 metafile = true
 
 [[files]]
@@ -717,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/uranus.pw.toml"
-hash = "ef0f7888c5f08916fb65a3308075ee0abe14e138c82f04914cfdc7db3cf95197"
+hash = "fc7b5f460ec60535a130187f234adfc16d82171b5efa3f9d5201bffc4eb90346"
 metafile = true
 
 [[files]]
@@ -806,6 +816,11 @@ hash = "f8c7cc8a9c0745d5c68a7ed6d955f330570a2e22172060d2fd6f8da3f3a2809b"
 metafile = true
 
 [[files]]
+file = "mods/yyzs-backpack.pw.toml"
+hash = "f65df1d6dcafceb42e65f69addeb0e0db4f963a1309e9e7f61dbb531c238454e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/3d-crops.pw.toml"
 hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
 metafile = true
@@ -817,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "8d4ef54b5da8007d17fea93efb1584d3d41b05e1b6953eeb7dc39210eb9b0255"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
