@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png.png"
+hash = "bd2e1a671c645fd7675f66d54fbcf6ebb60b97046e5f0732c9b852f482feee88"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "e05a07faeff15071e776cff8b040c3dad775fb992189455abc3fa9854163b95c"
 metafile = true
@@ -18,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "d5584d8fa5a95e73ce0fcace5210aa6b94807646a2ecad9c12767752e0f92fd6"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "69d8ee62dcee2d04a9fcee5f9931b8e5b44b0c445a00b917b30a9e683dd6a87c"
 metafile = true
 
 [[files]]
@@ -627,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "171236a7fb44b368ce3f1f9acfb7976d4c744a66871ac44dee612d0ea0da3357"
+hash = "e6132a9ebe33455f1e65a86f609dad278b8fcf77569fb5a5bb9891e68b0250c5"
 metafile = true
 
 [[files]]
@@ -647,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "c2c208ce56f4b64978606fe95fefe9f35909d880f8a7810f3924888418b26a46"
+hash = "a21849dd763f53e3d7631f3b75d38eb5c39e44aae05070d4d43b0d721cb0d850"
 metafile = true
 
 [[files]]
