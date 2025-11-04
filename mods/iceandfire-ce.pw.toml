@@ -1,13 +1,13 @@
 name = "IceAndFire Community Edition"
-filename = "IceAndFireCE-1.2-1.20.1-fabric.jar"
+filename = "IceAndFireCE-1.2-bugfix-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VpmCsizY/versions/i756cxMb/IceAndFireCE-1.2-1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/VpmCsizY/versions/o6b2kAdp/IceAndFireCE-1.2-bugfix-1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "1b4b633bdde99cbc7c8eba2458af2ae3fbb72e76a62ec6cf9f89f4786cbecdcbe5df705b0537649f92420e8395cce32a8da2c73f66321c2bd05834c0b597e804"
+hash = "4772f7d6ed52c1d1efae166e7fd0add91b59af163bd82255affe36843877cf6eb6d8a027eb2cf05d451a12be1515394b1a2086715d88421a150e5ddb82e0b017"
 
 [update]
 [update.modrinth]
 mod-id = "VpmCsizY"
-version = "i756cxMb"
+version = "o6b2kAdp"

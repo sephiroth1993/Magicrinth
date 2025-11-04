@@ -1,13 +1,13 @@
 name = "Medieval Origins Revival"
-filename = "Medieval Origins Revival-6.6.0+1.20.1-fabric.jar"
+filename = "medievalorigins-fabric-1.20.1-6.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3FJ8AhW0/versions/yUzRZcHV/Medieval%20Origins%20Revival-6.6.0%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/3FJ8AhW0/versions/5bbJb9iv/medievalorigins-fabric-1.20.1-6.7.1.jar"
 hash-format = "sha512"
-hash = "211887c3cc7d23cf86a0a6931d9dc8bde341e931d9fcfea64604b748529099c3ae948295675bee5a8fe0955b3acc6324fb16b52e146759556566630e33943885"
+hash = "49036bf12b66e971c4fa3aff099fa20204c788d04476bf29f01b0223060415cc467a81385bf5ddddafa992553eb060c9c658b94f63534063c39180ccd773df40"
 
 [update]
 [update.modrinth]
 mod-id = "3FJ8AhW0"
-version = "yUzRZcHV"
+version = "5bbJb9iv"
