@@ -1,0 +1,13 @@
+name = "Orbital Railgun"
+filename = "orbital_railgun-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/biNmuvyg/versions/7MmpTgrB/orbital_railgun-1.1.jar"
+hash-format = "sha512"
+hash = "2ad508839a982e8b24f9c79b99ddd198472af9c2272030b728fc33f8d618241ae133a36b992a471747e4c871f26b014bd5de06b5d0f6c06520e121a6867be74c"
+
+[update]
+[update.modrinth]
+mod-id = "biNmuvyg"
+version = "7MmpTgrB"

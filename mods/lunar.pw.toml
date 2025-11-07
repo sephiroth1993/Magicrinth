@@ -1,13 +1,13 @@
 name = "Lunar"
-filename = "Lunar-fabric-1.20.1-0.2.5.jar"
+filename = "Lunar-fabric-1.20.1-0.2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PwhlJMsW/versions/yPSE6JFW/Lunar-fabric-1.20.1-0.2.5.jar"
+url = "https://cdn.modrinth.com/data/PwhlJMsW/versions/eN60Cyqm/Lunar-fabric-1.20.1-0.2.6.jar"
 hash-format = "sha512"
-hash = "c9f69f9ffa07b812f1b3eb65bfdbcbd4b7eac332fb83f53c0a29f0817a4da685ea72318f6ac7cedc4ccffa5a3b86737210cf511ef2a3345747b37fde07cfa77d"
+hash = "01521c4f10bd6fa16039cfabb863850b769a1c0a76069c74f104d4196740921f4641581acad54a440d6c778c00e9902c771db0f75e637f6b02996d43b48731e7"
 
 [update]
 [update.modrinth]
 mod-id = "PwhlJMsW"
-version = "yPSE6JFW"
+version = "eN60Cyqm"
